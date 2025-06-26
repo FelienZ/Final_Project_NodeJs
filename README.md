@@ -30,6 +30,13 @@ Body req:
   "readPage": 100,
   "reading": true
 }
+response: {
+  "status": "success",
+  "message": "Buku berhasil ditambahkan",
+  "data": {
+    "bookId": "Qbax5Oy7L8WKf74l"
+  }
+}
 ```
 ### `GET /books`
 
