@@ -10,7 +10,7 @@ Belajar Membuat API Daftar Buku dengan Node Js dan Hapi JS.
  - Postman for HTTP Request Simulation
 
 
- ### ✅ Dokumentasi Endpoint
+ ### Dokumentasi Endpoint
 
 ---
 
